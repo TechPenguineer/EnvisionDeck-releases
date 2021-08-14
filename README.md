@@ -1,2 +1,6 @@
-# EnvisionDeck releases
- A list of Envision Deck software updates with their descriptions
+# Releases
+
+Version | Info
+--------|-------
+0.0.1   | [Here]("./info/0.0.1.md")
+        
